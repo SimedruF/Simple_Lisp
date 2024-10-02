@@ -4,4 +4,5 @@
 2. Learn LISP - https://www.tutorialspoint.com/lisp/index.htm :) 
 3. Usage:  
    > sbcl --script Math_operations.lisp
+   > 
    > sbcl --script exp.lisp
